@@ -1,4 +1,4 @@
-I’m a passionate web developer who loves creating modern, responsive, interactive web applications. I specialize in React and work extensively with technologies like Next.js, Prisma, Supabase,react hook form,zod, react query,  TypeScript, Tailwind CSS, Shadcn ui, and various CSS libraries.
+I’m a passionate web developer who loves creating modern, responsive, interactive web applications. I specialize in React and work extensively with technologies like Next.js, Prisma, Supabase,React Hook Form, Zod, Redux, React Query Tanstack,  TypeScript, Tailwind CSS, Shadcn ui, and various CSS libraries.
 
 I have hands-on experience integrating AWS services such as Simple Email Service (SES) for transactional email delivery, Movider SMS API for messaging services, Bux API for financial transaction processing, and PostgreSQL for managing relational databases.
 
