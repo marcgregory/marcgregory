@@ -18,11 +18,12 @@ Front-end / Full-stack Developer focused on responsive web apps, TypeScript, Rea
 
 ## Core Skills
 
-- **Front-end:** React, Next.js, TypeScript, Tailwind CSS, Shadcn UI, responsive UI design
-- **State & Forms:** Redux, React Query, React Hook Form, Zod
-- **Back-end & Data:** REST APIs, PostgreSQL, Prisma, event-driven workflows
-- **Cloud & DevOps:** AWS SES, EventBridge, Amplify, EC2, VPC, RDS
-- **Integrations:** Movider SMS API, Bux payment API, third-party authentication and messaging services
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, TypeScript, Tailwind CSS, Shadcn UI, React Query, Redux, Testing Library
+- **Backend:** Node.js, Express, PHP, WordPress theme development, ACF custom queries, WP REST API, Prisma, Firebase Auth/Storage/Firestore, FastAPI
+- **Cloud / Infra / Tools:** AWS Cognito, VPC, EC2, RDS, Amplify, API integration with Bux and Movider, Render, Railway, Vercel, Model Loader, Redis, Celery, Cloudinary, Google Drive/Maps/Docs/Auth, Git
+- **LLM / Automation:** Demucs, faster-whisper, Python scripting, Sonnet, Qwen, GPT-based LLMs, Python web scraping, Playwright, BeautifulSoup
+- **Coding with AI:** Cursor, Claude Code, Antigravity, Lovable, Codex, GitHub Copilot
+- **IT / Hardware:** Computer networking, POS systems, CCTV systems, data recovery, OS installation, UPS and printer maintenance
 
 ## What I Build
 
