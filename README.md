@@ -20,7 +20,7 @@ Front-end / Full-stack Developer focused on responsive web apps, TypeScript, Rea
 
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, TypeScript, Tailwind CSS, Shadcn UI, React Query, Redux, Testing Library
 - **Backend:** Node.js, Express, PHP, WordPress theme development, ACF custom queries, WP REST API, Prisma, Firebase Auth/Storage/Firestore, FastAPI
-- **Cloud / Infra / Tools:** AWS Cognito, VPC, EC2, RDS, Amplify, API integration with Bux and Movider, Render, Railway, Vercel, Model Loader, Redis, Celery, Cloudinary, Google Drive/Maps/Docs/Auth, Git
+- **Cloud / Infra / Tools:** AWS Cognito, VPC, EC2, RDS, Amplify, API integration with Bux and Movider, Render, Railway, Vercel, Model Loader, Redis, Celery, Cloudinary, Google Drive/Maps/Docs/Auth, GitHub Actions CI/CD, Docker, Git
 - **LLM / Automation:** Demucs, faster-whisper, Python scripting, Sonnet, Qwen, GPT-based LLMs, Python web scraping, Playwright, BeautifulSoup
 - **Coding with AI:** Cursor, Claude Code, Antigravity, Lovable, Codex, GitHub Copilot
 - **IT / Hardware:** Computer networking, POS systems, CCTV systems, data recovery, OS installation, UPS and printer maintenance
