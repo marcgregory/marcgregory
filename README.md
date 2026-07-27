@@ -10,11 +10,9 @@ Front-end / Full-stack Developer focused on responsive web apps, TypeScript, Rea
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [Exclusive E-Commerce](https://github.com/marcgregory/exclusive-ecommerce) | TypeScript, Next.js | Modern e-commerce UI, responsive product flows, Vercel deployment |
-| [Project Management Platform](https://github.com/marcgregory/project-management-edroh-me) | TypeScript, AWS | AWS Amplify, EC2, VPC, RDS-backed project management features |
-| [AI Guitar Music Sheet Generator](https://github.com/marcgregory/AI-Guitar-Music-Sheet-Generator) | Python, AI | AI-assisted music sheet generation with a live demo |
-| [Portfolio](https://github.com/marcgregory/myportfolio) | TypeScript, React, Next.js | Personal portfolio built with modern front-end tooling |
-| [Twitter Clone](https://github.com/marcgregory/twitter_clone) | TypeScript, Firebase | Firebase-backed social app clone with real-time features |
+| [FieldConnect](https://github.com/marcgregory/fieldconnect) | Next.js, React, TypeScript, Fastify, PostgreSQL, Socket.io, JWT, Tailwind CSS, Turborepo | A Turborepo monorepo field service management platform purpose-built for low-voltage contractors. The Fastify 4 API serves PostgreSQL-backed REST + WebSocket... Self-designed architecture with comprehensive documentation. |
+| [CareerLaunch Studio](https://github.com/marcgregory/careerlaunch-studio) | Next.js, React, TypeScript, Prisma, PostgreSQL, Tailwind CSS, Playwright, Docker, Vercel | A database-backed resume, CV, and cover-letter builder built as a TypeScript npm workspace monorepo with a Next.js App Router web app, Prisma/PostgreSQL persistence, shared... Self-designed architecture with full project documentation. |
+| [Sentience IoT](https://github.com/marcgregory/sass-sentience) | Next.js, React, TypeScript, Fastify, Socket.IO, MQTT, PostgreSQL, Turborepo, Drizzle ORM | A Turbo monorepo full-stack IoT operations platform with a real-time Next.js dashboard, Fastify API, Socket.IO live updates, MQTT device simulation, role-based access, and Drizzle-... Self-designed system architecture with detailed documentation. |
 
 ## Core Skills
 
